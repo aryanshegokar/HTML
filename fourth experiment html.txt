@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Shruti Kamnani- Resume</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f7fa;
+color: #333;
+}
+
+/* Header */
+.header {
+background-color: #002b5c; /* Dark Blue */
+color: white;
+text-align: center;
+padding: 40px 20px;
+}
+
+.header h1 {
+margin: 0;
+font-size: 32px;
+letter-spacing: 2px;
+}
+
+.header p {
+margin: 5px 0 0;
+font-size: 16px;
+}
+
+/* Resume Box */
+.resume-box {
+background-color: #fff;
+max-width: 800px;
+margin: 30px auto;
+padding: 20px 30px;
+border-radius: 10px;
+box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.section {
+margin-bottom: 25px;
+}
+
+.section h2 {
+color: #002b5c;
+margin-bottom: 5px;
+font-size: 20px;
+text-transform: uppercase;
+}
+
+.divider {
+height: 3px;
+width: 50px;
+background-color: #002b5c;
+margin-bottom: 10px;
+border-radius: 2px;
+}
+
+.section p, .section ul {
+margin: 0;
+line-height: 1.6;
+}
+
+ul {
+padding-left: 20px;
+}
+
+a {
+color: #002b5c;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+<h1>SHRUTI KAMNANI</h1>
+<p>Student at Symbiosis Institute of Technology, Nagpur</p>
+</div>
+
+<!---Profile Photo--->
+<div class="profile-box">
+<img src="imagpe2.jpg" alt="shruti kamnani",class="profile photo"/>
+
+<!-- Resume Box -->
+<div class="resume-box">
+
+<!-- About Me -->
+<div class="section">
+<h2>About Me</h2>
+<div class="divider"></div>
+<p>I am an aspiring student passionate about technology and innovation.I am a passionate individual who strives to learn and grow every day.</p>
+</div>
+
+<!-- Skills -->
+<div class="section">
+<h2>Skills</h2>
+<div class="divider"></div>
+<ul>
+<li>Intermediate level coding knowledge (C, Python, Java)</li>
+<li>Experience in building capstone projects</li>
+<li>Basic understanding of web development (HTML, CSS, JS)</li>
+<li>Problem-solving and analytical skills</li>
+</ul>
+</div>
+
+<!-- Contact -->
+<div class="section">
+<h2>Contact Me</h2>
+<div class="divider"></div>
+<p><strong>Email:</strong> shruti@gmail.com</p>
+<p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+
+</div>
+
+</div>
+
+</body> 
+</html>
